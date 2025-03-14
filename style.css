@@ -557,13 +557,13 @@ footer .linefooter p a:hover::after {
         text-align: center;
     }
 
-    .txt-topo p {
-        font-size: 20px;
+    .topo-site .txt-topo p {
+        padding: 0 20px;
         text-align: justify;
     }
 
     .botoes-contato {
-        gap: 10px;
+        gap: 5px;
         margin-left: 20px;
         margin-right: 20px;
     }
