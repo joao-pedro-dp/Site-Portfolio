@@ -126,7 +126,7 @@ header nav.menu-desktop ul li{
 }
 
 .menu-mobile .btn-fechar{
-    padding: 20px 5%;
+    padding: 30px 15%;
 }
 
 .menu-mobile nav ul{
@@ -139,6 +139,7 @@ header nav.menu-desktop ul li{
     font-size: 20px;
     padding: 20px 8%;
     margin-bottom: 15px;
+    margin-right: 40px;
 }
 
 .overlay{
@@ -558,7 +559,7 @@ footer .linefooter p a:hover::after {
     }
 
     .topo-site .txt-topo p {
-        padding: 0 20px;
+        padding: 0 25px;
         text-align: justify;
     }
 
