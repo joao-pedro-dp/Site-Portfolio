@@ -544,7 +544,7 @@ footer .linefooter p a:hover::after {
     }
 
     section.topo-site {
-        padding: 40px 10%;
+        padding: 40px 5%;
     }
 
     /*CABEÇALHO*/
@@ -564,6 +564,7 @@ footer .linefooter p a:hover::after {
     .topo-site p {
         margin-left: 20px;
         margin-right: 20px;
+        text-align: justify;
     }
 
     .botoes-contato {
@@ -606,7 +607,9 @@ footer .linefooter p a:hover::after {
     }
     
     .dashboard-section p{
-        margin-left: 20px; 
+        margin-left: 20px;
+        margin-right: 20px;
+        text-align: justify;
     }
 
     .dashboard-container {
