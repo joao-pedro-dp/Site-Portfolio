@@ -543,10 +543,6 @@ footer .linefooter p a:hover::after {
         flex-direction: column-reverse;
     }
 
-    section.topo-site {
-        padding: 40px 5%;
-    }
-
     /*CABEÇALHO*/
     .menu-desktop{
         display: none;
