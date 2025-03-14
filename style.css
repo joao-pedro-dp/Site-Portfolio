@@ -557,15 +557,12 @@ footer .linefooter p a:hover::after {
         text-align: center;
     }
 
-    .topo-site p {
-        margin-left: 20px;
-        margin-right: 20px;
+    .txt-topo p {
+        font-size: 20px;
         text-align: justify;
     }
 
     .botoes-contato {
-        flex-direction: column;
-        align-items: center;
         gap: 10px;
         margin-left: 20px;
         margin-right: 20px;
@@ -582,6 +579,8 @@ footer .linefooter p a:hover::after {
     .sobre h2{
         margin-bottom: 60px;
         margin-top: 60px; 
+        margin-left: 20px;
+        margin-right: 20px;
         text-align: center;
     }
 
