@@ -126,7 +126,7 @@ header nav.menu-desktop ul li{
 }
 
 .menu-mobile .btn-fechar{
-    padding: 30px 15%;
+    padding: 30px 5%;
 }
 
 .menu-mobile nav ul{
@@ -137,9 +137,9 @@ header nav.menu-desktop ul li{
     display: block;
     color: white;
     font-size: 20px;
-    padding: 20px 8%;
+    padding: 20px 30%;
     margin-bottom: 15px;
-    margin-right: 40px;
+
 }
 
 .overlay{
@@ -551,6 +551,11 @@ footer .linefooter p a:hover::after {
 
     /*TOPO DO SITE*/
 
+    section .topo-site{
+
+        padding: 0px 20px;
+    }
+
     .topo-site h1 {
         font-size: 40px;
         margin-left: 20px;
@@ -559,7 +564,7 @@ footer .linefooter p a:hover::after {
     }
 
     .topo-site .txt-topo p {
-        padding: 0 25px;
+        padding: 0 8%;
         text-align: justify;
     }
 
